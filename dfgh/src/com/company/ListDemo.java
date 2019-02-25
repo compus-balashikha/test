@@ -7,6 +7,9 @@ public class ListDemo {
 
     public static void main(String[] args) {
 
+        SISEM NE ROBIT
+                
+
         int a = 5;
         Integer b = 5;
         ArrayList<Integer> list = new ArrayList<>();

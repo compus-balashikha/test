@@ -5,6 +5,8 @@ import javax.swing.*;
 public class Element {
     JButton button;
     ImageIcon icon;
-    int pressed;
-    ƒычвсампиртотрвкчсапирот
+    int pressed
+        ƒычвсампиртотрвкчсапирот
+
+    opapapapapapapapappaapa aaaopofsdpov
 }
