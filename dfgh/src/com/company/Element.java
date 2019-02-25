@@ -6,4 +6,6 @@ public class Element {
     JButton button;
     ImageIcon icon;
     int pressed;
+
+    opapapapapapapapappaapa aaaopofsdpov
 }
