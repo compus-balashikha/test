@@ -5,6 +5,7 @@ public class Document {
     String type;
     String text;
     String number;
+    int IgorLox;
 
     @Override
     public String toString() {
