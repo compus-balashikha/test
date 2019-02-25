@@ -15,7 +15,7 @@ public class Person {
     String lastName;
 
     List<Document> documents;
-
+int a =10;
 
     void eat() {
         weight = weight + 1;
